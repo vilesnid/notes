@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-06-13
 - Verified API endpoint response schema
 - Refactored module structure for clarity
+
+## 2026-06-13
+- Documented config options
